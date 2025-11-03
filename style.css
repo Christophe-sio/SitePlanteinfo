@@ -1,4 +1,3 @@
-
 /*CSSjardin.css*/
 p.a {
 margin: 5px auto;
@@ -8,26 +7,7 @@ padding: 5px;
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 color:rgb(180, 108, 120)  ;
 }
-p.b {
-font-style: italic;
-font-variant: small-caps;
-font-size: 45px;
-font-family: "Poppins",Arial, sans-serif;
-font-weight: bold;
-color: #436850;
-background-color: #f6d1d1;
-  width: 1700px;
-  height: 70px;
-  margin: -8px;
-  margin-right: -10px;
-  text-align: center;
-}
-hr {
-border-top : 12px solid #a2e2b17d;
-margin-left: -8px;
-margin-right: -80px;
-width: 1700px;
-}
+
 .button {
   background-color: #a2e2b1;
   border: 3px solid #ba981d;
@@ -101,39 +81,35 @@ a{
 }
 .button_haut{
   background-color: #f6d1d1;
-  border: none;
+  border: 3px solid #ffffff;
   color: rgb(255, 255, 255);
   padding: 8px 24px;
   text-align: left;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 3px 1px;
   transition-duration: 0.4s;
   cursor: pointer;
   border-radius: 32px;
   margin-top: -10px;
   margin-bottom: -10px;
 }
-.button_acceuil {border: 3px solid #ffffff;
-text-align:left
-}
 .button_acceuil:hover {
   background-color: #ffffff;
   color: #f6d1d1;
 }
-.button_p2 {border: 3px solid #ffffff;
-text-align: center;
-}
+
 .button_p2:hover {
   background-color: #ffffff;
   color: #f6d1d1;
 }
-.button_p3 {border: 3px solid #ffffff;
-text-align: center;
-}
+
 .button_p3:hover {
   background-color: #ffffff;
   color: #f6d1d1;
 }
-
+.button_p4:hover {
+  background-color: #ffffff;
+  color: #f6d1d1;
+}
