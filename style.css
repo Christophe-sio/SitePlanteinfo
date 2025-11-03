@@ -95,21 +95,7 @@ a{
   margin-top: -10px;
   margin-bottom: -10px;
 }
-.button_acceuil:hover {
+.button_haut:hover {
   background-color: #ffffff;
   color: #f6d1d1;
-}
 
-.button_p2:hover {
-  background-color: #ffffff;
-  color: #f6d1d1;
-}
-
-.button_p3:hover {
-  background-color: #ffffff;
-  color: #f6d1d1;
-}
-.button_p4:hover {
-  background-color: #ffffff;
-  color: #f6d1d1;
-}
